@@ -46,4 +46,7 @@ class PlayerAdapter extends RecyclerView.Adapter<PlayerAdapter.PlayerViewHolder>
         return 0;
     }
 
+
+    //серега пидор
+
 }
